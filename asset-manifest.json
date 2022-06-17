@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LosSimpsons/static/css/main.558344cd.chunk.css",
+    "main.js": "/LosSimpsons/static/js/main.95167f79.chunk.js",
+    "main.js.map": "/LosSimpsons/static/js/main.95167f79.chunk.js.map",
+    "runtime-main.js": "/LosSimpsons/static/js/runtime-main.5ea18a83.js",
+    "runtime-main.js.map": "/LosSimpsons/static/js/runtime-main.5ea18a83.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/LosSimpsons/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.037171ff.chunk.js": "/LosSimpsons/static/js/2.037171ff.chunk.js",
+    "static/js/2.037171ff.chunk.js.map": "/LosSimpsons/static/js/2.037171ff.chunk.js.map",
+    "index.html": "/LosSimpsons/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/LosSimpsons/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.558344cd.chunk.css.map": "/LosSimpsons/static/css/main.558344cd.chunk.css.map",
+    "static/js/2.037171ff.chunk.js.LICENSE.txt": "/LosSimpsons/static/js/2.037171ff.chunk.js.LICENSE.txt",
+    "static/media/carrousel-1.9b34cf9c.jpg": "/LosSimpsons/static/media/carrousel-1.9b34cf9c.jpg",
+    "static/media/carrousel-2.fd912352.jpg": "/LosSimpsons/static/media/carrousel-2.fd912352.jpg",
+    "static/media/carrousel-3.424560c4.jpg": "/LosSimpsons/static/media/carrousel-3.424560c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea18a83.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.037171ff.chunk.js",
+    "static/css/main.558344cd.chunk.css",
+    "static/js/main.95167f79.chunk.js"
+  ]
+}
